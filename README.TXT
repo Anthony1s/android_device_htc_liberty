@@ -73,3 +73,4 @@ README.TXT: device_htc_liberty.git
 
 ----
 EOF
+TotD - anthony
